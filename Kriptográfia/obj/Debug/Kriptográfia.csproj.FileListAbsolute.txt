@@ -1,0 +1,6 @@
+C:\Users\Adam\Desktop\Kriptográfia\Kriptográfia\bin\Debug\Kriptográfia.exe.config
+C:\Users\Adam\Desktop\Kriptográfia\Kriptográfia\bin\Debug\Kriptográfia.exe
+C:\Users\Adam\Desktop\Kriptográfia\Kriptográfia\bin\Debug\Kriptográfia.pdb
+C:\Users\Adam\Desktop\Kriptográfia\Kriptográfia\obj\Debug\Kriptográfia.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\Kriptográfia\Kriptográfia\obj\Debug\Kriptográfia.exe
+C:\Users\Adam\Desktop\Kriptográfia\Kriptográfia\obj\Debug\Kriptográfia.pdb
